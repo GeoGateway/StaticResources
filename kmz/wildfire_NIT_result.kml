@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Montecito Debris Flows: rapid estimation</name>
+	<Icon>
+		<href>https://raw.githubusercontent.com/GeoGateway/GeoGatewayStaticResources/master/kmz/Montecito_Debris_Flows.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>34.47746139356252</north>
+		<south>34.41369194771175</south>
+		<east>-119.5726842665065</east>
+		<west>-119.6775024873584</west>
+		<rotation>1.355149338526786</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
