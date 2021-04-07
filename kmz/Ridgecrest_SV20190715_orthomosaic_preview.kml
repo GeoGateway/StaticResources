@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document><name>Orthomosaic Image</name>
+    <description>Low resolution thumbnail of orthomosaic image
+      Capture date: 2019-07-15
+    </description>
+    <!-- low resolution image thumbnail -->     
+    <GroundOverlay>
+      <name>M7.1 Overview image (SV20190715)</name>
+      <Icon>
+<href>https://raw.githubusercontent.com/GeoGateway/GeoGatewayStaticResources/master/kmz/SV20190715_orthomosaic_preview.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>35.64999807094753</north>
+        <south>35.64443131948663</south>
+        <east>-117.476902237211</east>
+        <west>-117.48416037854179</west>
+      </LatLonBox>
+    </GroundOverlay>  
+  </Document>
+</kml>

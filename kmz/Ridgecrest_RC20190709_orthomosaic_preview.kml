@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document><name>Orthomosaic Image</name>
+    <description>Low resolution thumbnail of orthomosaic image
+      Capture date: 2019-07-09
+    </description>
+    <!-- low resolution image thumbnail -->     
+    <GroundOverlay>
+      <name>M6.4 Overview image (RC20190709)</name>
+      <Icon>
+<href>https://raw.githubusercontent.com/GeoGateway/GeoGatewayStaticResources/master/kmz/RC20190709_orthomosaic_preview.png</href>
+        <viewBoundScale>0.75</viewBoundScale>
+      </Icon>
+      <LatLonBox>
+        <north>35.6446464</north>
+        <south>35.6406282</south>
+        <east>-117.534730</east>
+        <west>-117.540569</west>
+      </LatLonBox>
+    </GroundOverlay>  
+  </Document>
+</kml>
