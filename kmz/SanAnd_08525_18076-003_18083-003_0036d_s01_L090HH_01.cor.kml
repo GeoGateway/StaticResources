@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>SanAnd_08525_18076-003_18083-003_0036d_s01_L090HH_01.cor</name>
+	<Icon>
+		<href>https://raw.githubusercontent.com/GeoGateway/GeoGatewayStaticResources/master/kmz/SanAnd_08525_18076-003_18083-003_0036d_s01_L090HH_01.cor_thumbnail.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>34.4288096</north>
+		<south>34.0102762</south>
+		<east>-116.8062882</east>
+		<west>-119.2452055</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
